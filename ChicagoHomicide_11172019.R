@@ -2,7 +2,7 @@
 # Data import and processing
 ############################
 
-setwd("~/Google\ Drive\ (nmilikic@nd.edu)/Fall\ 2019/ACMS\ 40842\ Time\ Series\ Analysis/Time\ Series\ Project/")
+setwd(setwd(dirname(rstudioapi::getActiveDocumentContext()$path)))
 hom = read.csv(file = "Homicides (1).csv", header = TRUE, sep = ",")
 hom.dummy = numeric(0)
 currMonth = 1
