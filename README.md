@@ -11,7 +11,7 @@ The project is contained in Group1_Report_Rcodes.R, and can be run by simply exe
 Running this code requires that the R packages fpp2, fpp, and forecast be installed.
 
 To run the source code, the following should be included in the same directory (included in this repository):
-- Homicides (1).csv
-- Temperature.txt
+- `Homicides (1).csv`
+- `Temperature.txt`
 
 This project was run using R version 4.0.3.
