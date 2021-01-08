@@ -11,7 +11,7 @@ The project is contained in Group1_Report_Rcodes.R, and can be run by simply exe
 Running this code requires that the R packages fpp2, fpp, and forecast be installed.
 
 To run the source code, the following should be included in the same directory (included in this repository):
-- `Homicides (1).csv`
-- `Temperature.txt`
+- `Homicides (1).csv`, a file with details of all recorded homicides in Chicago during the given timeframe
+- `Temperature.txt`, a file with data of the temperature in Chicago for the given timeframe, downloaded from the NOAA portal
 
 This project was run using R version 4.0.3.
