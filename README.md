@@ -1,4 +1,4 @@
-# Temporal Analysis of Sea Ice Extent in Baffin Bay
+# Temporal Analysis of Homicides in Chicago, Illinois
 
 Nick Milikich /
 ACMS 40842 Time Series Analysis /
